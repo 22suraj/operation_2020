@@ -1,3 +1,3 @@
 <?php
-print 'ssssjjjjj';
+printtttt 'ssssjjjjj';
 ?>
