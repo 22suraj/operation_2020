@@ -1,3 +1,3 @@
 <?php
-print ''[Dsdg[C[D'[;
+print 'dfgwe';
 ?>
