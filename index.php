@@ -1,3 +1,3 @@
 <?php
-print 'dgs';
+print ''[Dsdg[C[D'[;
 ?>
